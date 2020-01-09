@@ -4,7 +4,7 @@ const Footer: React.FC<{}> = () => {
   return <div>Foooooter</div>;
 };
 
-// yar
+// y
 
 // Other
 
