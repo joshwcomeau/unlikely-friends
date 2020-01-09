@@ -6,5 +6,6 @@ const Footer: React.FC<{}> = () => {
 
 // part1
 // part1.5
+// part2
 
 export default Footer;
